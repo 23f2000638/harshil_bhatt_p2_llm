@@ -149,6 +149,6 @@ Or in the Railway dashboard under "Deployments" → "View Logs"
 ## Support
 
 For issues or questions:
-- Check the [original repository]
+- Check the [original repository]: https://github.com/23f2000638/harshil_bhatt_p2_llm
 - Railway documentation: https://docs.railway.app
 - Google AI documentation: https://ai.google.dev
